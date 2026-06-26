@@ -129,3 +129,10 @@ cpp cpp20 console-application csv data-structures binary-search-tree hash-table 
 ## License
 
 This project is licensed under the MIT License. See `LICENSE` for details.
+
+## Authors
+
+This project was created by:
+
+- Andrew Riad
+- Steven Keesler
