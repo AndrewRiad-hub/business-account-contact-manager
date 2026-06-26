@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="BACM System.vcxproj" Id="b7eb8382-15a8-4c05-afd5-149c07d123ed" />
+</Solution>
